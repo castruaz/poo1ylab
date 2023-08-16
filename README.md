@@ -1,6 +1,6 @@
 # Programacion Orientada a Objetos y Laboratorio
 
-- Nombre : Carlos Castaneda Ramirez
+- Nombre : Carlos Hector Castaneda Ramirez
 - Correo : castr@uaz.edu.mx
 
 ## Actividad 1
@@ -14,3 +14,4 @@
 ### ACtividad 3
 - Programa 5
 - Programa 6
+- Programa 7
